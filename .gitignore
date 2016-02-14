@@ -7,3 +7,10 @@
 out
 gen
 # Created by .ignore support plugin (hsz.mobi)
+
+build
+dist
+data.csv
+setup.py
+test_api.py
+*.pyc
